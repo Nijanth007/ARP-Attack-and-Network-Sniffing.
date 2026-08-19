@@ -25,26 +25,12 @@ Boot kali and Windows7 virtual machines.
 In windows 7 give the command arp -a
 ## OUTPUT:
 Scan the available hosts from the network
-
-
-<img width="920" height="1090" alt="image" src="https://github.com/user-attachments/assets/de3d60da-afd5-48f5-b031-5cd3c475d5be" />
-
-
-
-## OUTPUT:
-
-Add the hosts into the target:
-
-<img width="920" height="1090" alt="image" src="https://github.com/user-attachments/assets/bccbe2c3-0fa4-419a-9384-66088e90c53d" />
-
-
+<img width="824" height="493" alt="image" src="https://github.com/user-attachments/assets/2ca7c05b-ff72-4da2-b538-2620500dba5c" />
 
 ## OUTPUT:
 
 Invoke the wireshark and examine for duplicates:
-<img width="1920" height="1103" alt="image" src="https://github.com/user-attachments/assets/6c7dfee3-24c5-4aaf-9cb0-8938064f85df" />
-
-
+<img width="1061" height="774" alt="image" src="https://github.com/user-attachments/assets/1282f2eb-0b1c-4552-82bb-7df07ceee3dc" />
 
 
 ## RESULT:
