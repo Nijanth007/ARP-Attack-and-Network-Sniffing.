@@ -30,8 +30,7 @@ Scan the available hosts from the network
 ## OUTPUT:
 
 Invoke the wireshark and examine for duplicates:
-<img width="1061" height="774" alt="image" src="https://github.com/user-attachments/assets/1282f2eb-0b1c-4552-82bb-7df07ceee3dc" />
-
+<img width="1920" height="983" alt="image" src="https://github.com/user-attachments/assets/18ad8f7f-eea0-45c5-9750-94416237ba53" />
 
 ## RESULT:
 The kali linux tools for ARP Attack and Network Sniffing were identified successfully
